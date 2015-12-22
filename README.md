@@ -1,2 +1,2 @@
-# basic-project
-basic project template for java
+# Database Project 
+Basic project to connect to a database
